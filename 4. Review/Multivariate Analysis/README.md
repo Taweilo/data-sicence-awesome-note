@@ -10,10 +10,10 @@ Multivariate analysis is a statistical technique used to analyze relationships a
 
 ## 2. What are the strengths/challenges
 - Strengths:
- - Comprehensive Insights: Multivariate analysis provides a holistic view of data, capturing the interdependencies between variables.
- - Pattern Recognition: It enables the identification of patterns and trends that may not be apparent in univariate or bivariate analyses.
- - Predictive Modeling: Useful for building predictive models by considering the joint effects of multiple variables.
- - Reduced Dimensionality: Techniques like principal component analysis can reduce the number of variables while retaining essential information.
+  - Comprehensive Insights: Multivariate analysis provides a holistic view of data, capturing the interdependencies between variables.
+  - Pattern Recognition: It enables the identification of patterns and trends that may not be apparent in univariate or bivariate analyses.
+  - Predictive Modeling: Useful for building predictive models by considering the joint effects of multiple variables.
+  - Reduced Dimensionality: Techniques like principal component analysis can reduce the number of variables while retaining essential information.
 - Challenges:
  - Complexity: Analyzing multiple variables can be complex, requiring a solid understanding of statistical methods and data interpretation.
  - Assumption Sensitivity: Some methods assume certain distributions or relationships, and violations can impact results.
