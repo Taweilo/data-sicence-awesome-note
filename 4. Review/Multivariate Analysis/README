@@ -1,29 +1,18 @@
 ## 目錄
-- [1. 什么是逻辑回归](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#1-什么是逻辑回归)
-- [2. 什么是Sigmoid函数](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#2-什么是sigmoid函数)
-- [3. 损失函数是什么](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#3-损失函数是什么)
-- [4.可以进行多分类吗？](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#4可以进行多分类吗)
-- [5.逻辑回归有什么优点](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#5逻辑回归有什么优点)
-- [6. 逻辑回归有哪些应用](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#6-逻辑回归有哪些应用)
-- [7. 逻辑回归常用的优化方法有哪些](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#7-逻辑回归常用的优化方法有哪些)
-  - [7.1 一阶方法](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#71-一阶方法)
-  - [7.2 二阶方法：牛顿法、拟牛顿法：](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#72-二阶方法牛顿法拟牛顿法)
-- [8. 逻辑斯特回归为什么要对特征进行离散化。](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#8-逻辑斯特回归为什么要对特征进行离散化)
-- [9. 逻辑回归的目标函数中增大L1正则化会是什么结果。](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#9-逻辑回归的目标函数中增大l1正则化会是什么结果)
-- [10. 代码实现](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/demo/CreditScoring.ipynb)
+- [1. What's Multivariate Analysis](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#1-什么是逻辑回归)
+- [2. What are the strengths/challenges](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#2-什么是sigmoid函数)
+- [3. What are the skills](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#3-损失函数是什么)
+- [4. What are the steps？](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#4可以进行多分类吗)
+- [5. Demo](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/2.Logistics%20Regression#5逻辑回归有什么优点)
 
 ## 1. What's Multivariate Analysis
 
-逻辑回归是用来做分类算法的，大家都熟悉线性回归，一般形式是Y=aX+b，y的取值范围是[-∞, +∞]，有这么多取值，怎么进行分类呢？不用担心，伟大的数学家已经为我们找到了一个方法。
-
-也就是把Y的结果带入一个非线性变换的**Sigmoid函数**中，即可得到[0,1]之间取值范围的数S，S可以把它看成是一个概率值，如果我们设置概率阈值为0.5，那么S大于0.5可以看成是正样本，小于0.5看成是负样本，就可以进行分类了。
-
-## 2. What are the challenges
+## 2. What are the strengths/challenges
 
 ## 3. What are the skills
 
 ## 4. What are the steps
 
-## 10. Demo
+## 5. Demo
 GitHub：[https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/demo/CreditScoring.ipynb](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/demo/CreditScoring.ipynb)
 
