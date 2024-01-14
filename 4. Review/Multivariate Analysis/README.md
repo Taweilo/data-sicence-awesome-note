@@ -15,10 +15,10 @@ Multivariate analysis is a statistical technique used to analyze relationships a
   - Predictive Modeling: Useful for building predictive models by considering the joint effects of multiple variables.
   - Reduced Dimensionality: Techniques like principal component analysis can reduce the number of variables while retaining essential information.
 - Challenges:
- - Complexity: Analyzing multiple variables can be complex, requiring a solid understanding of statistical methods and data interpretation.
- - Assumption Sensitivity: Some methods assume certain distributions or relationships, and violations can impact results.
- - Data Quality: Multivariate analysis is sensitive to data quality; outliers or missing values can affect outcomes.
- - Interpretation Challenges: Interpreting results can be challenging due to the complexity of interactions between variables.
+  - Complexity: Analyzing multiple variables can be complex, requiring a solid understanding of statistical methods and data interpretation.
+  - Assumption Sensitivity: Some methods assume certain distributions or relationships, and violations can impact results.
+  - Data Quality: Multivariate analysis is sensitive to data quality; outliers or missing values can affect outcomes.
+  - Interpretation Challenges: Interpreting results can be challenging due to the complexity of interactions between variables.
 ## 3. What are the skills
 
 ## 4. What are the steps
