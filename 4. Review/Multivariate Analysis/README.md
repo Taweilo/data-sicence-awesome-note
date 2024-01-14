@@ -20,18 +20,16 @@ Multivariate analysis is a statistical technique used to analyze relationships a
   - Data Quality: Multivariate analysis is sensitive to data quality; outliers or missing values can affect outcomes.
   - Interpretation Challenges: Interpreting results can be challenging due to the complexity of interactions between variables.
 ## 3. What are the skills
-
+1. Data visualization
+2. Supervised learning
+3. Unsupervised learning
+   
 ## 4. What are the steps
-Define Objectives: Clearly outline the goals and objectives of the analysis.
-Data Collection: Gather relevant data, ensuring it is complete and of good quality.
-Exploratory Data Analysis (EDA): Conduct EDA to understand the characteristics of the dataset.
-Variable Selection: Choose variables relevant to the analysis objectives.
-Choose Analysis Method: Select an appropriate multivariate analysis technique based on the data and objectives.
-Data Transformation: If needed, apply transformations such as standardization or normalization.
-Model Building: Implement the chosen multivariate analysis model.
-Interpret Results: Analyze and interpret the results in the context of the research questions.
-Validation: Validate the model and results to ensure reliability.
-Communicate Findings: Present findings in a clear and understandable manner.
+1. Define Objectives: Clearly outline the goals and objectives of the analysis.
+2. Data Collection: Gather relevant data, ensuring it is complete and of good quality.
+3. Exploratory Data Analysis (EDA): Conduct EDA to understand the characteristics of the dataset.
+4. Variable Selection / PCA: Choose variables relevant to the analysis objectives.
+5. Model Building: Implement the chosen multivariate analysis model.
 
 ## 5. Demo
 GitHub：[https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/demo/CreditScoring.ipynb](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/demo/CreditScoring.ipynb)
