@@ -1,5 +1,5 @@
 ## 目录
-- [1.什么是线性回归](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#1什么是线性回归)
+- [1.What's Linear Regression](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#1什么是线性回归)
 - [2. 能够解决什么样的问题](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#2-能够解决什么样的问题)
 - [3. 一般表达式是什么](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#3-一般表达式是什么)
 - [4. 如何计算](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#4-如何计算)
@@ -13,7 +13,7 @@
 - [6. 线性回归要求因变量服从正态分布？](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#6-线性回归要求因变量服从正态分布)
 - [7. 代码实现](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression/demo)
 
-## 1.什么是线性回归
+## 1. What's Linear Regression
 
 - 线性：两个变量之间的关系**是**一次函数关系的——图象**是直线**，叫做线性。
 - 非线性：两个变量之间的关系**不是**一次函数关系的——图象**不是直线**，叫做非线性。
@@ -34,6 +34,9 @@ w叫做x的系数，b叫做偏置项。
 ### 4.1 Loss Function--MSE
 
 ![](https://latex.codecogs.com/gif.latex?J=\frac{1}{2m}\sum^{i=1}_{m}(y^{'}-y)^2)
+y=θ 
+T
+ ×x
 
 利用**梯度下降法**找到最小值点，也就是最小误差，最后把 w 和 b 给求出来。
 
