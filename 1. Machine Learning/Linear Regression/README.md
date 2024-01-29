@@ -22,6 +22,16 @@
 
 w叫做x的系数，b叫做偏置项。
 
+```math
+\hat{y} = \theta^T x = \theta = [ \theta_1, \theta_2, \ldots, \theta_n ] \
+\begin{bmatrix}
+x_1 \\
+x_2 \\
+\vdots \\
+x_n
+\end{bmatrix}
+
+```
 
 $\hat{y}$ = $\theta^T x$ <br>
 Here, $\theta^T$ represents the transpose of the vector θ, turning it into a row vector. x is another column vector representing the features or inputs.
