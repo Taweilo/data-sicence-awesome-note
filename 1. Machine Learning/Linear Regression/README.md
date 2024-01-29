@@ -3,6 +3,7 @@
 - [2. 能够解决什么样的问题](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#2-能够解决什么样的问题)
 - [3. 一般表达式是什么](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#3-一般表达式是什么)
 - [4. 如何计算](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#4-如何计算)
+  
 
 
 ## 1. What's Linear Regression
@@ -20,9 +21,15 @@
 ![](https://latex.codecogs.com/gif.latex?Y=wx+b)
 
 w叫做x的系数，b叫做偏置项。
-y = \theta^T \times x
-$\hat{y}$ = \theta^T x$
-$\theta_0 + \theta_1 x_1$
+
+
+$\hat{y}$ = $\theta^T x$ <br>
+Here, $\theta^T$ represents the transpose of the vector θ, turning it into a row vector. x is another column vector representing the features or inputs.
+
+```math
+$\begin{bmatrix} X \\ Y \end{bmatrix}$
+```
+
 ## 4. 如何计算
 
 ### 4.1 Loss Function--MSE
