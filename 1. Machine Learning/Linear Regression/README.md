@@ -28,15 +28,14 @@
 ![](https://latex.codecogs.com/gif.latex?Y=wx+b)
 
 w叫做x的系数，b叫做偏置项。
+y = θ^T × x
 
 ## 4. 如何计算
 
 ### 4.1 Loss Function--MSE
 
 ![](https://latex.codecogs.com/gif.latex?J=\frac{1}{2m}\sum^{i=1}_{m}(y^{'}-y)^2)
-y=θ 
-T
- ×x
+
 
 利用**梯度下降法**找到最小值点，也就是最小误差，最后把 w 和 b 给求出来。
 
