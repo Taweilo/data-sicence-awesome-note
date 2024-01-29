@@ -21,6 +21,7 @@
 
 w叫做x的系数，b叫做偏置项。
 y = \theta^T \times x
+$\hat{y}$ = $\theta_0^T + \theta_1 x_1$
 
 ## 4. 如何计算
 
