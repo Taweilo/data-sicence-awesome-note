@@ -21,8 +21,8 @@
 
 w叫做x的系数，b叫做偏置项。
 y = \theta^T \times x
-$\hat{y}$ = $\theta^T x
-
+$\hat{y}$ = \theta^T x$
+$\theta_0 + \theta_1 x_1$
 ## 4. 如何计算
 
 ### 4.1 Loss Function--MSE
