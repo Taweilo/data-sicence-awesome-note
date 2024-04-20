@@ -2,6 +2,10 @@
 
 | 種類 | 子種類 | 內容                                                        |
 | ----- | -------- | ------------------------------------------------------------ | 
+| Python note | Basic Library cheatsheet  | [基礎python(Basic Library cheatsheet)](https://colab.research.google.com/drive/1dxSbBy__6uy3wzZ4t9URFClR92Lxz-1E#scrollTo=PJTSlvuF0DA7) |
+| Python note | Data Preparation & EDA cheatsheet  | [數據整理與探索(EDA)]() |
+| Python note | Regression cheatsheet | [回歸筆記(Regression cheatsheet)](https://colab.research.google.com/drive/13JTAurn7k1RuXQBqA1v7NOHR333zuvfi#scrollTo=nJm6AmLgJkcR) |
+| Python note | Classification cheatsheet | [分類筆記(Regression cheatsheet)]() |
 | Machine Learning | Supervise Learning | [線性回歸(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |
 | Machine Learning | Supervise Learning | [2. 逻辑回归(Logistics Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | 
 | Machine Learning | Supervise Learning | [3. 决策树(Desision Tree)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) | 
