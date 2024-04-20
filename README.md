@@ -2,10 +2,10 @@
 
 | 種類 | 子種類 | 內容                                                        |
 | ----- | -------- | ------------------------------------------------------------ | 
-| Python note | Basic Library   | [基礎python(Basic Library cheatsheet)](https://colab.research.google.com/drive/1dxSbBy__6uy3wzZ4t9URFClR92Lxz-1E#scrollTo=PJTSlvuF0DA7) |
+| Python note | Basic Library   | [基礎python (cheatsheet)](https://colab.research.google.com/drive/1dxSbBy__6uy3wzZ4t9URFClR92Lxz-1E#scrollTo=PJTSlvuF0DA7) |
 | Python note | Explore Data Analysis  | [數據整理與探索(EDA)]() |
-| Python note | Regression cheatsheet | [回歸筆記(Regression cheatsheet)](https://colab.research.google.com/drive/13JTAurn7k1RuXQBqA1v7NOHR333zuvfi#scrollTo=nJm6AmLgJkcR) |
-| Python note | Classification cheatsheet | [分類筆記(Regression cheatsheet)]() |
+| Python note | Regression cheatsheet | [回歸筆記 (Regression cheatsheet)](https://colab.research.google.com/drive/13JTAurn7k1RuXQBqA1v7NOHR333zuvfi#scrollTo=nJm6AmLgJkcR) |
+| Python note | Classification cheatsheet | [分類筆記 (Classification cheatsheet)]() |
 | Machine Learning | Liner Regression | [線性回歸(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |
 | Machine Learning | Regulization | [正則化(Regulization)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |
 | Machine Learning | Supervise Learning | [2. 逻辑回归(Logistics Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | 
