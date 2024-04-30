@@ -2,6 +2,7 @@
 
 | 種類 | 子種類 | 內容                                                        |
 | ----- | -------- | ------------------------------------------------------------ | 
+| Github | Readme  | [Readme (cheatsheet)](https://github.com/Taweilo/github_cheatsheet) |
 | Python note | Basic Library   | [基礎python (cheatsheet)](https://colab.research.google.com/drive/1dxSbBy__6uy3wzZ4t9URFClR92Lxz-1E#scrollTo=PJTSlvuF0DA7) |
 | Python note | Explore Data Analysis  | [數據整理與探索(EDA)]() |
 | Python note | Regression cheatsheet | [回歸筆記 (Regression cheatsheet)](https://colab.research.google.com/drive/13JTAurn7k1RuXQBqA1v7NOHR333zuvfi#scrollTo=nJm6AmLgJkcR) |
