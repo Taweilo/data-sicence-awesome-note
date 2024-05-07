@@ -21,6 +21,7 @@ Support Vector Machines (SVM) are powerful models used to classify data points i
 A good use case for SVM would be in scenarios where there's a need to classify data into distinct categories with a clear margin of separation, especially when dealing with nonlinear relationships or high-dimensional feature spaces. E.g. Image Classification, Text Classification, Bioinformatics: SVMs are applied in bioinformatics for tasks like protein classification, gene expression analysis, and disease prediction. Financial Forecasting: They are used in financial applications for credit scoring, stock market prediction, and risk management. Medical Diagnosis: SVMs are utilized in medical diagnostics for disease classification, patient outcome prediction, and medical image analysis.
 
 ## 3. Math 
+<img src="https://editor.analyticsvidhya.com/uploads/20470svm17.png" height="350">
 - Model expression
 Given a training dataset {(𝑥₁, 𝑦₁), (𝑥₂, 𝑦₂), ..., (𝑥ₙ, 𝑦ₙ)} where 𝑥ᵢ is the feature vector and 𝑦ᵢ is the class label (+1 or -1), the hard margin SVM objective can be expressed as:
   - Hard Margin: <br>
@@ -44,8 +45,12 @@ Given a training dataset {(𝑥₁, 𝑦₁), (𝑥₂, 𝑦₂), ..., (𝑥ₙ,
       
 - Hyperparameters
   - **C** (Regularization Parameter): Controls the trade-off between maximizing the margin and minimizing the classification error. Higher values of C allow for a smaller margin but fewer misclassifications (potentially leading to overfitting), while lower values encourage a larger margin but may lead to more misclassifications.
+
+<img src="https://cdn-gonif.nitrocdn.com/THQcPJbuTzJiTSVPDIWAOpVBJvtrgqnR/assets/images/optimized/rev-4123e83/training.atmosera.com/wp-content/uploads/2021/07/c-margins-1.png" height="350">
+
   - **Kernel Type and Parameters**: For non-linearly separable data, the choice of kernel (e.g., **linear, polynomial, RBF**) and its associated parameters (e.g., degree for polynomial kernel, gamma for RBF kernel) impact the model's ability to capture complex relationships in the data.
   - **Kernel Coefficient**: In the case of polynomial and RBF kernels, the kernel coefficient (gamma) determines the influence of individual training samples on the decision boundary.
+    
 ## 4. Deployment
 https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html
 ```
@@ -64,10 +69,15 @@ y_pred = clf.predict(X_test)
 
 ## 5. Pros and Cons 
 - Bias and variance
-- linear and nonlinear
-- num of feature
+  - High 𝐶  (Low Bias, High Variance):
+  With a high value of C, SVM focuses on classifying the training data correctly and allows for fewer misclassifications. This can lead to a model that is more complex and 
+has lower bias but higher variance. In other words, it's more prone to overfitting as it tries to fit the training data very closely.
+  - Low 𝐶 (High Bias, Low Variance):
+Conversely, a low value of C encourages a larger margin and accepts more margin violations (misclassifications). This results in a simpler model with higher bias but lower variance. Such a model is less likely to overfit but may have higher bias, meaning it might not capture the training data as accurately.
+
 
 ## 6. SVR
+Unlike Support Vector Machines (SVMs) used for classification tasks, SVR seeks to find a hyperplane that best fits the data points in a continuous space. This is achieved by mapping the input variables to a high-dimensional feature space and finding the hyperplane that maximizes the margin (distance) between the hyperplane and the closest data points, while also minimizing the prediction error.
 
 ## 5. Reference
 - SVC Sklearn: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
@@ -75,4 +85,5 @@ y_pred = clf.predict(X_test)
 - Hard margine: https://www.youtube.com/watch?v=bM4_AstaBZo
 - Soft margin: https://www.youtube.com/watch?v=IjSfa7Q8ngs
 - Hindge loss: https://www.youtube.com/watch?v=eKIX8F6RP-g&t=0s
+- SVR: https://www.analyticsvidhya.com/blog/2020/03/support-vector-regression-tutorial-for-machine-learning/#:~:text=Support%20Vector%20Regression%20(SVR)%20is,while%20minimizing%20the%20prediction%20error.
 
