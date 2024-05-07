@@ -1,10 +1,10 @@
 # SVM 
 - [1. What's SVM ](#1-What's-SVM)
 - [2. Why SVM](#2-Why-SVM)
-- [3. Math](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#3)
-- [4. Deployment](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#4)
-- [5. Pros and Cons](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#5)
-- [6. SVR](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#6)
+- [3. Math](#3-math)
+- [4. Deployment](#4-deployment)
+- [5. Pros and Cons](#5-pros-and-cons)
+- [6. SVR](#6-svr)
   
 ## 1. What's SVM
 A support vector machine (SVM) is a supervised machine learning algorithm that classifies data by finding an optimal line or hyperplane that maximizes the distance between each class in an N-dimensional space.
