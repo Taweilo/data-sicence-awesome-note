@@ -70,5 +70,9 @@ y_pred = clf.predict(X_test)
 ## 6. SVR
 
 ## 5. Reference
-- Sklearn: 
+- SVC Sklearn: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+- SVR Sklearn: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html
+- Hard margine: https://www.youtube.com/watch?v=bM4_AstaBZo
+- Soft margin: https://www.youtube.com/watch?v=IjSfa7Q8ngs
+- Hindge loss: https://www.youtube.com/watch?v=eKIX8F6RP-g&t=0s
 
