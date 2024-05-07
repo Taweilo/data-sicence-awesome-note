@@ -23,12 +23,14 @@ A good use case for SVM would be in scenarios where there's a need to classify d
 ## 3. Math 
 - Model expression
 Given a training dataset {(𝑥₁, 𝑦₁), (𝑥₂, 𝑦₂), ..., (𝑥ₙ, 𝑦ₙ)} where 𝑥ᵢ is the feature vector and 𝑦ᵢ is the class label (+1 or -1), the hard margin SVM objective can be expressed as:
-  - Hard Margin <br>
+  - Hard Margin: <br>
     $min_{w, b} (1/2) ||w||^2$ <br>
-    Subject to the constraints: $y_i (w^T x_i + b) >= 1 for i = 1, 2, ..., n$ <br>
-  - Soft Margin
+    Subject to the constraints: <br>
+    $y_i (w^T x_i + b) >= 1 for i = 1, 2, ..., n$ <br>
+  - Soft Margin: <br>
     $min_{w, b, \xi} (1/2) ||w||^2 + C \sum_{i=1}^{n} \xi_i$ <br>
-    Subject to the constraints: $y_i (w^T x_i + b) >= 1 - \xi_i$ and $\xi_i >= 0 for i = 1, 2, ..., n$ <br>
+    Subject to the constraints: <br>
+    $y_i (w^T x_i + b) >= 1 - \xi_i$ and $\xi_i >= 0 for i = 1, 2, ..., n$ <br>
 - Hyperparameters
   - C (Regularization Parameter): Controls the trade-off between maximizing the margin and minimizing the classification error. Higher values of C allow for a smaller margin but fewer misclassifications (potentially leading to overfitting), while lower values encourage a larger margin but may lead to more misclassifications.
   - Kernel Type and Parameters: For non-linearly separable data, the choice of kernel (e.g., linear, polynomial, RBF) and its associated parameters (e.g., degree for polynomial kernel, gamma for RBF kernel) impact the model's ability to capture complex relationships in the data.
