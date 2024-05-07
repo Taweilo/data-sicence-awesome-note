@@ -26,7 +26,7 @@ Given a training dataset {(𝑥₁, 𝑦₁), (𝑥₂, 𝑦₂), ..., (𝑥ₙ,
   - Hard Margin: <br>
     $min_{w, b} (1/2) ||w||^2$ <br>
     Subject to the constraints: <br>
-    $y_i (w^T x_i + b) >= 1 for i = 1, 2, ..., n$ <br>
+    $y_i (w^T x_i + b) >= 1 for i = 1, 2, ..., n$  <br>
   - Soft Margin: <br>
     $min_{w, b, \xi} (1/2) ||w||^2 + C \sum_{i=1}^{n} \xi_i$ <br>
     Subject to the constraints: <br>
