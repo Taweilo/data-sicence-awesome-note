@@ -1,9 +1,10 @@
 # SVM 
-- [1. What's SVM ](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#1什么是线性回归)
-- [2. Why SVM](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#2-能够解决什么样的问题)
-- [3. Math](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#3-一般表达式是什么)
-- [3. Math](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#3-一般表达式是什么)
-- [4. Pros and Cons](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#4-如何计算)
+- [1. What's SVM ](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#1)
+- [2. Why SVM](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#2)
+- [3. Math](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#3)
+- [4. Deployment](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#4)
+- [5. Pros and Cons](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#5)
+- [6. SVR](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#6)
   
 ## 1. What's SVM
 A support vector machine (SVM) is a supervised machine learning algorithm that classifies data by finding an optimal line or hyperplane that maximizes the distance between each class in an N-dimensional space.
