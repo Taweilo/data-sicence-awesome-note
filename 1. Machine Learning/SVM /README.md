@@ -26,11 +26,22 @@ Given a training dataset {(𝑥₁, 𝑦₁), (𝑥₂, 𝑦₂), ..., (𝑥ₙ,
   - Hard Margin: <br>
     $min_{w, b} (1/2) ||w||^2$ <br>
     Subject to the constraints: <br>
-    $y_i (w^T x_i + b) >= 1 for i = 1, 2, ..., n$  <br>
+    $y_i (w^T x_i + b) >= 1$ for $i = 1, 2, ..., n$  <br>
   - Soft Margin: <br>
-    $min_{w, b, \xi} (1/2) ||w||^2 + C \sum_{i=1}^{n} \xi_i$ <br>
+    $min_{w, b, \xi} (1/2) ||w||^2 + C \sum\limits_{i=1}^{n} \xi_i$ <br>
     Subject to the constraints: <br>
-    $y_i (w^T x_i + b) >= 1 - \xi_i$ and $\xi_i >= 0 for i = 1, 2, ..., n$ <br>
+    $y_i (w^T x_i + b) >= 1 - \xi_i$ and $\xi_i >= 0$ for $i = 1, 2, ..., n$ <br><br>
+    
+    The hinge loss $\xi_i$ represents the penalty associated with the misclassification of a data point $(x_i, y_i)$. Here's how the hinge loss is defined:
+    $\xi_i = \max(0, 1 - y_i (w^T x_i + b))$ <br>
+    Where:
+    - $\xi_i$ is the hinge loss for the \( i \)-th data point.
+    - $x_i$ is the feature vector for the \( i \)-th data point.
+    - $y_i$ is the true class label for the \( i \)-th data point, with \( y_i = +1 \) for the positive class and \( y_i = -1 \) for the negative class.
+    - $w$ is the weight vector.
+    - $b$ is the bias term.
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231109124420/1-(1).png" height="350">
+      
 - Hyperparameters
   - C (Regularization Parameter): Controls the trade-off between maximizing the margin and minimizing the classification error. Higher values of C allow for a smaller margin but fewer misclassifications (potentially leading to overfitting), while lower values encourage a larger margin but may lead to more misclassifications.
   - Kernel Type and Parameters: For non-linearly separable data, the choice of kernel (e.g., linear, polynomial, RBF) and its associated parameters (e.g., degree for polynomial kernel, gamma for RBF kernel) impact the model's ability to capture complex relationships in the data.
