@@ -22,6 +22,7 @@ A good use case for SVM would be in scenarios where there's a need to classify d
 
 ## 3. Math 
 <img src="https://editor.analyticsvidhya.com/uploads/20470svm17.png" height="350">
+
 - Model expression
 Given a training dataset {(𝑥₁, 𝑦₁), (𝑥₂, 𝑦₂), ..., (𝑥ₙ, 𝑦ₙ)} where 𝑥ᵢ is the feature vector and 𝑦ᵢ is the class label (+1 or -1), the hard margin SVM objective can be expressed as:
   - Hard Margin: <br>
@@ -49,8 +50,11 @@ Given a training dataset {(𝑥₁, 𝑦₁), (𝑥₂, 𝑦₂), ..., (𝑥ₙ,
 <img src="https://cdn-gonif.nitrocdn.com/THQcPJbuTzJiTSVPDIWAOpVBJvtrgqnR/assets/images/optimized/rev-4123e83/training.atmosera.com/wp-content/uploads/2021/07/c-margins-1.png" height="350">
 
   - **Kernel Type and Parameters**: For non-linearly separable data, the choice of kernel (e.g., **linear, polynomial, RBF**) and its associated parameters (e.g., degree for polynomial kernel, gamma for RBF kernel) impact the model's ability to capture complex relationships in the data.
+<img src="https://scikit-learn.org/stable/_images/sphx_glr_plot_iris_svc_001.png" height="350">
+
   - **Kernel Coefficient**: In the case of polynomial and RBF kernels, the kernel coefficient (gamma) determines the influence of individual training samples on the decision boundary.
-    
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*LWUbFLuATUtNWsKC4AcZWg.png" height="350">
+
 ## 4. Deployment
 https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html
 ```
@@ -85,5 +89,7 @@ Unlike Support Vector Machines (SVMs) used for classification tasks, SVR seeks t
 - Hard margine: https://www.youtube.com/watch?v=bM4_AstaBZo
 - Soft margin: https://www.youtube.com/watch?v=IjSfa7Q8ngs
 - Hindge loss: https://www.youtube.com/watch?v=eKIX8F6RP-g&t=0s
+- Kernel trick visualization: https://www.youtube.com/watch?v=wqSTBCguVyU
+- Kernel trick with different dataset: https://kevinvecmanis.io/machine%20learning/hyperparameter%20tuning/dataviz/python/svm/2019/05/12/Support-Vector-Machines-Visual-Guide.html
 - SVR: https://www.analyticsvidhya.com/blog/2020/03/support-vector-regression-tutorial-for-machine-learning/#:~:text=Support%20Vector%20Regression%20(SVR)%20is,while%20minimizing%20the%20prediction%20error.
 
