@@ -1,5 +1,5 @@
 # SVM 
-- [1. What's SVM ](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#1)
+- [1. What's SVM ](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#1What'sSVM)
 - [2. Why SVM](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#2)
 - [3. Math](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#3)
 - [4. Deployment](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20#4)
