@@ -20,6 +20,12 @@ Logistic Regression and trees differ in the way that they generate decision boun
     <img width="40%" src="https://blog.bigml.com/wp-content/uploads/2016/06/model_boundary_radial.png?w=2100&h=&crop=1">
     <img width="40%" src="https://blog.bigml.com/wp-content/uploads/2016/06/lr_boundary_radial.png?w=2100&h=&crop=1">
 </p>
+<p align="center" width="100%">
+    <img width="40%" src="https://almablog-media.s3.ap-south-1.amazonaws.com/image_17_ef951c96c2.png">
+    <img width="40%" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Aowj0Cbk5WvbpRE2FPlX0A.png">
+</p>
+
+
 
 ## 2. Why Decision Tree
 - reasons/ what problem it solves
