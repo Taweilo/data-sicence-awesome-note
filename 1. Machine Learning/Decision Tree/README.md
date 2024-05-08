@@ -3,7 +3,8 @@
 - [2. Why Decision Tree](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#2-能够解决什么样的问题)
 - [3. Math](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#3-一般表达式是什么)
 - [4. Pros and Cons](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/Liner%20Regression#4-如何计算)
-  
+
+https://www.analyticsvidhya.com/blog/2021/08/decision-tree-algorithm/
 ## 1. What's Decision Tree
 A decision tree is a popular supervised learning algorithm used for both classification and regression tasks in machine learning. It works by creating a tree-like structure where each internal node represents a decision based on a feature, and each leaf node represents the outcome or prediction. 
 
