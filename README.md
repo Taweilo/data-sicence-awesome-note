@@ -48,3 +48,8 @@
 | 種類 | 子種類 | 內容                                                        |
 | ----- | -------- | ------------------------------------------------------------ | 
 | Statistics | basic statistic | abc             |
+
+## Reference: 
+- Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow
+- Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking
+- An Introduction to Statistical Learning: https://www.statlearning.com/
