@@ -1,19 +1,20 @@
-## 目錄 - first priority
+## 
 
-| 種類 | 子種類 | 內容                                                        |
+| Category | Subcategory | Content                                                        |
 | ----- | -------- | ------------------------------------------------------------ | 
 | Python note | Regression cheatsheet | [回歸筆記 (Regression cheatsheet)](https://colab.research.google.com/drive/13JTAurn7k1RuXQBqA1v7NOHR333zuvfi#scrollTo=nJm6AmLgJkcR) |
 | Python note | Classification cheatsheet | [分類筆記 (Classification cheatsheet)](https://colab.research.google.com/drive/121dyWgC98z7BoGnQ1mdjDHlqaQqGALSd#scrollTo=DVyFlzJ53f2B) |
-| Machine Learning | Modeling- Liner Regression | [線性回歸(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |
-| Machine Learning | Modeling- Regulization method | [正則化(Regulization)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |
-| Machine Learning |  Modeling-KNN | [9.K近邻算法(KNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/9.%20KNN) | 
-| Machine Learning | Modeling- Logit | [2. 逻辑回归(Logistics Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | 
-| Machine Learning | Modeling- Decision tree | [3. 决策树(Desision Tree)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) | 
+| Supervised | Regression | [線性回歸(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |
+| Supervised | Regression | [正則化(Regulization)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |
+| Supervised | Classification/Regression | [9.K近邻算法(KNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/9.%20KNN) | 
+| Supervised | Classification/Regression | [SVM](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20) | 
+| Supervised | Classification | [2. 逻辑回归(Logistics Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | 
+| Supervised | Classification/Regression| [3. 决策树(Desision Tree)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) | 
 | Machine Learning | Modeling-Random Forest | [3.1 随机森林(Random Forest)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.1%20Random%20Forest/3.1%20Random%20Forest.md) |
-| Machine Learning | Supervise Learning | [3.2 梯度提升决策树(GBDT)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.2%20GBDT/3.2%20GBDT.md) | 
-| Machine Learning | Supervise Learning |[3.3 XGBoost](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.3%20XGBoost/3.3%20XGBoost.md) | 
-| Machine Learning | Supervise Learning | [3.4 LightGBM](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.4%20LightGBM/3.4%20LightGBM.md) | 
-| Machine Learning |  Modeling- SVM | [4. 支持向量机(SVM)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/4.%20SVM/4.%20SVM.md) | 
+| Supervised | Supervise Learning | [3.2 梯度提升决策树(GBDT)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.2%20GBDT/3.2%20GBDT.md) | 
+| Supervised | Supervise Learning |[3.3 XGBoost](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.3%20XGBoost/3.3%20XGBoost.md) | 
+| Supervised | Supervise Learning | [3.4 LightGBM](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.4%20LightGBM/3.4%20LightGBM.md) | 
+| Supervised |  Modeling- SVM | [4. 支持向量机(SVM)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/4.%20SVM/4.%20SVM.md) | 
 
 ## 目錄 
 | 種類 | 子種類 | 內容                                                        |
