@@ -133,6 +133,7 @@ Conversely, a low value of C encourages a larger margin and accepts more margin 
 Unlike Support Vector Machines (SVMs) used for classification tasks, SVR seeks to find a hyperplane that best fits the data points in a continuous space. This is achieved by mapping the input variables to a high-dimensional feature space and finding the hyperplane that maximizes the margin (distance) between the hyperplane and the closest data points, while also minimizing the prediction error.
 
 ## 5. Reference
+- https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/4.%20SVM/4.%20SVM.md
 - SVC Sklearn: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 - SVR Sklearn: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html
 - Hard margine: https://www.youtube.com/watch?v=bM4_AstaBZo
