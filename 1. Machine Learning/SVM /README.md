@@ -57,19 +57,67 @@ Given a training dataset {(𝑥₁, 𝑦₁), (𝑥₂, 𝑦₂), ..., (𝑥ₙ,
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*LWUbFLuATUtNWsKC4AcZWg.png" height="350">
 
 ## 4. Deployment
-https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html
+Notebook: https://colab.research.google.com/drive/1sl3OyK5rT2HqDsZ2cUg0P7476pGDAKrB#scrollTo=WIDLhNA89Gd2
+SKlearn documentation: https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html
 ```
-#Import svm model
-from sklearn import svm
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.datasets import make_classification
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.preprocessing import StandardScaler
+from sklearn.pipeline import Pipeline
+from sklearn.svm import SVC
+from sklearn.metrics import accuracy_score, classification_report, roc_auc_score, roc_curve
 
-#Create a svm Classifier
-clf = svm.SVC(kernel='linear') # Linear Kernel
+# Step 1: Generate synthetic dataset and plot pair plot
+X, y = make_classification(n_samples=1000, n_features=5, n_informative=3, n_clusters_per_class=1, random_state=42)
+df = pd.DataFrame(X, columns=[f'feature_{i+1}' for i in range(X.shape[1])])
+df['class'] = y
+sns.pairplot(df, hue='class')
+plt.suptitle('Pair Plot with Hue: Class')
+plt.show()
 
-#Train the model using the training sets
-clf.fit(X_train, y_train)
+# Step 2: Split data into train and test sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-#Predict the response for test dataset
-y_pred = clf.predict(X_test)
+# Step 3: Create a pipeline with scaling and SVC, and find best hyperparameters using GridSearchCV
+pipe = Pipeline([('scaler', StandardScaler()), ('svc', SVC())])
+param_grid = {'svc__C': [0.1, 1, 10, 100], 'svc__gamma': [0.1, 0.01, 0.001, 0.0001], 'svc__kernel': ['linear', 'rbf']}
+grid_search = GridSearchCV(pipe, param_grid, cv=5)
+grid_search.fit(X_train, y_train)
+
+# Step 4: Print the best hyperparameters and mean accuracy on train CV data
+best_svc = grid_search.best_estimator_
+best_params = grid_search.best_params_
+print(f'Best Hyperparameters: {best_params}')
+
+cv_mean_accuracy = grid_search.cv_results_['mean_test_score'][grid_search.best_index_]
+print(f'Mean Accuracy on Train CV Data: {cv_mean_accuracy:.2f}')
+
+# Step 5: Retrain SVC with the best hyperparameters on the entire training data
+best_svc.fit(X_train, y_train)
+
+# Step 6: Evaluate the model on test data and print classification report
+y_pred = best_svc.predict(X_test)
+print('Classification Report on test:')
+print(classification_report(y_test, y_pred))
+
+# Step 7: Plot ROC AUC curve
+y_pred_proba = best_svc.decision_function(X_test)
+fpr, tpr, thresholds = roc_curve(y_test, y_pred_proba)
+roc_auc = roc_auc_score(y_test, y_pred_proba)
+
+plt.figure(figsize=(8, 6))
+plt.plot(fpr, tpr, color='blue', lw=2, label=f'ROC AUC Curve (Area = {roc_auc:.2f})')
+plt.plot([0, 1], [0, 1], color='gray', linestyle='--')
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.title('ROC AUC Curve for Best SVC')
+plt.legend(loc='lower right')
+plt.grid(True)
+plt.show()
 ```
 
 ## 5. Pros and Cons 
