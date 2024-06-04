@@ -7,6 +7,7 @@
 | White noise | WN test  | |
 | Constant mean | model  | |
 | Random walk/ with drift | model  | |
+| Regression | model  | |
 | Error correction | model  | |
 | AR(1) | model  | |
 | MA(1)  | model  | |
