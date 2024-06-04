@@ -1,9 +1,9 @@
 # Time-series forecasting
 ## Content
 
-| Category | Note | Context                                                      |
+| Category | Note | Python code                                                   |
 | ----- | -------- | ------------------------------------------------------------ | 
-| Time-series intro | why time-series  | [Readme (cheatsheet)]() |
+| Time-series intro | why time-series  | [TS intro](https://colab.research.google.com/drive/1844VadUkSEBBHtxsLiMV6YsUGjhumImP#scrollTo=L8GOAYuU-BmF) |
 | White noise | WN test  | |
 | Constant mean | model  | |
 | Random walk/ with drift | model  | |
