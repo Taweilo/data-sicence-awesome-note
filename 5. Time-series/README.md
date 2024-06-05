@@ -18,6 +18,5 @@
 | Prophet | library  | |
 
 ## Project
-- 123
-- 123
-- 123
+- Sales forecasting
+- Stock price forecasting
