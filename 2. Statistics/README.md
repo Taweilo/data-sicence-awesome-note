@@ -13,11 +13,12 @@
 | Proportion testing | theory  | |
 | Chi-square test | theory  |[Chi-square](https://colab.research.google.com/drive/1thMwOKvFGyaBcw-Ujq7lYIvRRDRpnaol) |
 | Hypothesis testing | review  |[Mini case testing](https://colab.research.google.com/drive/1d6KMfNWzYiCR0HkrW6-NVs5J5PNtJlUe) |
-| Non-parametic testing | testing method  | |
+| Non-parametric testing | testing method  | |
 | Bootstrapping | resample method  | [Simulation](https://colab.research.google.com/drive/1VJRvCmYkABLLlfaKmPqqgyVw8MUvn3Cn)|
 | Regression | application  | [Regression code](https://colab.research.google.com/drive/1aQomsT8lsZHZBYgVu_1ICJJ6wnMiwWav) |
 | ANOVA | application  |  |
 | Two-way ANOVA | application  |  |
+| MNOVA | application  |  |
 | ANCOVA | application  |  |
 | Logistic regression | application  | [Logistic Regression code](https://colab.research.google.com/drive/1jgHA00LzNWFPtA94Sb00x2lq3LBrPYFp) |
 
