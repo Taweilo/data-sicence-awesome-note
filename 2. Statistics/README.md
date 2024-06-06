@@ -8,8 +8,7 @@
 | Descriptive Statistics | EDA process  |  |
 | Power analysis | theory | [Power analysis simulation](https://colab.research.google.com/drive/1b_K8FPWl27wTTtLHYQZ50QvtDm4k_8Dv) |
 | alpha, beta, p-value | theory |  |
-| T-test | theory  | [T-test](https://colab.research.google.com/drive/1SZvx4nHuULazkCWNYycUTszFdFPkDFSS) |
-| Paired T-test | theory  | |
+| T-test( one sample, independent, paired) | theory  | [T-test](https://colab.research.google.com/drive/1SZvx4nHuULazkCWNYycUTszFdFPkDFSS) |
 | Z-test | theory  | |
 | Proportion testing | theory  | |
 | Chi-squre test | theory  | |
