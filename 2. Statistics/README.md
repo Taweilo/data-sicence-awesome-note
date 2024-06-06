@@ -18,7 +18,6 @@
 | Regression | application  | [Regression code](https://colab.research.google.com/drive/1aQomsT8lsZHZBYgVu_1ICJJ6wnMiwWav) |
 | ANOVA | application  |  |
 | Two-way ANOVA | application  |  |
-| MNOVA | application  |  |
 | ANCOVA | application  |  |
 | Logistic regression | application  | [Logistic Regression code](https://colab.research.google.com/drive/1jgHA00LzNWFPtA94Sb00x2lq3LBrPYFp) |
 
@@ -29,6 +28,7 @@
 | Nonadditivity | theory  |  |
 | Outlier identification | theory  |  |
 | lin-log, log-log, log-lin | theory  |  |
+| MANOVA | application  |  |
 | TS concept | theory |  |
 | Factor Analysis | theory  |  |
 | Bayesian Statistics | theory  |  |
