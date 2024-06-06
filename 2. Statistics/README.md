@@ -3,6 +3,7 @@
 
 | Category | Note | Python code                                                   |
 | ----- | -------- | ------------------------------------------------------------ | 
+| Probability | theory  | [Simulation](https://colab.research.google.com/drive/1GNX9iPuXftN23UKhTaDd24zzKNArnAlg#scrollTo=B_lH0Rm_kIWs) |
 | Distribution | theory  | [Distribution](https://colab.research.google.com/drive/1MnTBlZ7mPCKjx7hosv_KT8N9DRte32cy) |
 | CLT | theory  | [CLT simulation](https://colab.research.google.com/drive/1o_aSTl96jkCshfYoQeuy7tkA3sWS-teG) |
 | Descriptive Statistics | EDA process  |  |
