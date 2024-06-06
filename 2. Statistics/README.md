@@ -8,10 +8,10 @@
 | Descriptive Statistics | EDA process  |  |
 | Power analysis | theory | [Power analysis simulation](https://colab.research.google.com/drive/1b_K8FPWl27wTTtLHYQZ50QvtDm4k_8Dv) |
 | alpha, beta, p-value | theory |  |
-| T-test (one sample, independent, paired) | theory  | [T-test](https://colab.research.google.com/drive/1SZvx4nHuULazkCWNYycUTszFdFPkDFSS) |
-| Z-test | theory  | |
+| T-test (one sample, independent, paired) | theory | [T-test](https://colab.research.google.com/drive/1SZvx4nHuULazkCWNYycUTszFdFPkDFSS) |
+| Z-test | theory  |[Z-test](https://colab.research.google.com/drive/1o8fpexDruEhbXjSQNkaUqDtWDt_ezxmL) |
 | Proportion testing | theory  | |
-| Chi-squre test | theory  | |
+| Chi-square test | theory  | |
 | Hypothesis testing | review  |[Mini case testing](https://colab.research.google.com/drive/1d6KMfNWzYiCR0HkrW6-NVs5J5PNtJlUe) |
 | Non-parametic testing | testing method  | |
 | Bootstrapping | resample method  | [Simulation](https://colab.research.google.com/drive/1VJRvCmYkABLLlfaKmPqqgyVw8MUvn3Cn)|
