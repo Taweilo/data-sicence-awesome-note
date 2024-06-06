@@ -7,6 +7,7 @@
 | CLT | theory  | [CLT simulation](https://colab.research.google.com/drive/1o_aSTl96jkCshfYoQeuy7tkA3sWS-teG) |
 | Descriptive Statistics | EDA process  |  |
 | Power analysis | theory | [Power analysis simulation](https://colab.research.google.com/drive/1b_K8FPWl27wTTtLHYQZ50QvtDm4k_8Dv) |
+| alpha, beta, p-value | theory |  |
 | T-test | theory  | [T-test](https://colab.research.google.com/drive/1SZvx4nHuULazkCWNYycUTszFdFPkDFSS) |
 | Paired T-test | theory  | |
 | Z-test | theory  | |
