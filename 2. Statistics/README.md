@@ -8,6 +8,7 @@
 | Descriptive Statistics |   |
 | Power analysis | theory | [Power analysis simulation](https://colab.research.google.com/drive/1b_K8FPWl27wTTtLHYQZ50QvtDm4k_8Dv) |
 | T-test | theory  | |
+| Paired T-test | theory  | |
 | Z-test | theory  | |
 | Chi-squre test | theory  | |
 | Hypothesis testing | review  |[Mini case testing](https://colab.research.google.com/drive/1d6KMfNWzYiCR0HkrW6-NVs5J5PNtJlUe) |
