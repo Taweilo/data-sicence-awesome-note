@@ -22,4 +22,14 @@
 | ANCOVA | application  |  |
 | Logistic regression | application  | [Logistic Regression code](https://colab.research.google.com/drive/1jgHA00LzNWFPtA94Sb00x2lq3LBrPYFp) |
 
+## Advanced Content
+
+| Category | Note | Python code                                                   |
+| ----- | -------- | ------------------------------------------------------------ | 
+| Nonadditivity | theory  |  |
+| Outlier identification | theory  |  |
+| lin-log, log-log, log-lin | theory  |  |
+| TS concept | EDA process  |  |
+
+
 
