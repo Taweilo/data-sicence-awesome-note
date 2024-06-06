@@ -29,7 +29,8 @@
 | Nonadditivity | theory  |  |
 | Outlier identification | theory  |  |
 | lin-log, log-log, log-lin | theory  |  |
-| TS concept | EDA process  |  |
-
+| TS concept | theory |  |
+| Factor Analysis | theory  |  |
+| Bayesian Statistics | theory  |  |
 
 
