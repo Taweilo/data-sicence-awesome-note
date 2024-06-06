@@ -10,6 +10,7 @@
 | T-test | theory  | |
 | Paired T-test | theory  | |
 | Z-test | theory  | |
+| Proportion testing | theory  | |
 | Chi-squre test | theory  | |
 | Hypothesis testing | review  |[Mini case testing](https://colab.research.google.com/drive/1d6KMfNWzYiCR0HkrW6-NVs5J5PNtJlUe) |
 | Non-parametic testing | testing method  | |
