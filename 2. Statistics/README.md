@@ -3,7 +3,7 @@
 
 | Category | Note | Python code                                                   |
 | ----- | -------- | ------------------------------------------------------------ | 
-| Probability | theory  | [Simulation](https://colab.research.google.com/drive/1GNX9iPuXftN23UKhTaDd24zzKNArnAlg#scrollTo=B_lH0Rm_kIWs) |
+| Probability (text)| theory  | [Simulation](https://colab.research.google.com/drive/1GNX9iPuXftN23UKhTaDd24zzKNArnAlg#scrollTo=B_lH0Rm_kIWs) |
 | Distribution | theory  | [Distribution](https://colab.research.google.com/drive/1MnTBlZ7mPCKjx7hosv_KT8N9DRte32cy) |
 | CLT | theory  | [CLT simulation](https://colab.research.google.com/drive/1o_aSTl96jkCshfYoQeuy7tkA3sWS-teG) |
 | Descriptive Statistics | EDA process  |  |
@@ -12,15 +12,15 @@
 | T-test (one sample, independent, paired) | theory | [T-test](https://colab.research.google.com/drive/1SZvx4nHuULazkCWNYycUTszFdFPkDFSS) |
 | Z-test | theory  |[Z-test](https://colab.research.google.com/drive/1o8fpexDruEhbXjSQNkaUqDtWDt_ezxmL) |
 | Proportion testing | theory  | |
-| Chi-square test | theory  |[Chi-square](https://colab.research.google.com/drive/1thMwOKvFGyaBcw-Ujq7lYIvRRDRpnaol) |
+| Chi-square test (text) | theory  |[Chi-square](https://colab.research.google.com/drive/1thMwOKvFGyaBcw-Ujq7lYIvRRDRpnaol) |
 | Hypothesis testing | review  |[Mini case testing](https://colab.research.google.com/drive/1d6KMfNWzYiCR0HkrW6-NVs5J5PNtJlUe) |
 | Non-parametric testing | testing method  | |
 | Bootstrapping | resample method  | [Simulation](https://colab.research.google.com/drive/1VJRvCmYkABLLlfaKmPqqgyVw8MUvn3Cn)|
-| Regression | application  | [Regression code](https://colab.research.google.com/drive/1aQomsT8lsZHZBYgVu_1ICJJ6wnMiwWav) |
+| Regression (text) | application  | [Regression code](https://colab.research.google.com/drive/1aQomsT8lsZHZBYgVu_1ICJJ6wnMiwWav) |
 | ANOVA | application  |  |
 | Two-way ANOVA | application  |  |
 | ANCOVA | application  |  |
-| Logistic regression | application  | [Logistic Regression code](https://colab.research.google.com/drive/1jgHA00LzNWFPtA94Sb00x2lq3LBrPYFp) |
+| Logistic regression (text) | application  | [Logistic Regression code](https://colab.research.google.com/drive/1jgHA00LzNWFPtA94Sb00x2lq3LBrPYFp) |
 
 ## Advanced Content
 
