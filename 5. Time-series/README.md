@@ -17,10 +17,10 @@
 | ARIMA review | How to decide p,d,q  | |
 | Error correction | model  | |
 | SARIMA | model  | [SARIMA](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
-| Prophet | model / library  | |
-| CNN | model / library  | |
-| RNN | model / library  | |
-| LSTM | model / library  | |
+| Prophet | model | |
+| CNN | model | |
+| RNN | model | |
+| LSTM | model | |
 
 
 ## Project
