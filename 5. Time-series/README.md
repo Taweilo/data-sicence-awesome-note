@@ -8,7 +8,7 @@
 | Constant mean | model  | [Constant mean](https://colab.research.google.com/drive/1YSqKLDZoTMFm12fvTWcpgO85LSwy6chP#scrollTo=c7BumI61stNg) |
 | EDA / data prep  | technique |  |
 | Random walk / with drift | model  | [RW](https://colab.research.google.com/drive/13n_ZtZ-8YyG-dqUtADGXTjEvGri77PL8#scrollTo=wSIMD7EOmELf)|
-| Regression | model  | |
+| Regression | model  | [Regression](https://colab.research.google.com/drive/1TT8d7mBOzYeshu8N7rxwN0iOWs2qEj3t)|
 | Seasonality detection | theory  | |[]()
 | AR(1) | model  | [AR(1)](https://colab.research.google.com/drive/12l4mPYGRLd0Np5KktHCv-kGIkDIdwBaT)|
 | MA(1)  | model  | [MA(1))](https://colab.research.google.com/drive/1FE44aYnb6PRTX14bYLtjvZBTXnMkDqLb)|
