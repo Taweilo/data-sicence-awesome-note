@@ -14,7 +14,7 @@
 | MA(1)  | model  | [MA(1))](https://colab.research.google.com/drive/1FE44aYnb6PRTX14bYLtjvZBTXnMkDqLb)|
 | ARMA | model  |[ARMA](https://colab.research.google.com/drive/1tx5NDJxYVwHLlJSXfMmgrCpYpeSTKiQp) |
 | ARIMA | model  |[ARIMA](https://colab.research.google.com/drive/1p48X3JezXXo3v-yOJB-GQ-iW40bP9ppA) |
-| ARIMA review | review  | |
+| ARIMA review | How to decide p,d,q  | |
 | Error correction | model  | |
 | SARIMA | model  | [SARIMA](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
 | Prophet | model / library  | |
