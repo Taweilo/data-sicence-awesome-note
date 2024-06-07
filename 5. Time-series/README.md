@@ -9,14 +9,15 @@
 | EDA / data prep  | technique |  |
 | Random walk / with drift | model  | [RW](https://colab.research.google.com/drive/13n_ZtZ-8YyG-dqUtADGXTjEvGri77PL8#scrollTo=wSIMD7EOmELf)|
 | Regression | model  | |
-| Error correction | model  | |
-| AR(1) | model  | |
-| MA(1)  | model  | |
-| ARMA | model  | |
-| ARIMA | model  | |
+| Seasonality detection | theory  | |[]()
+| AR(1) | model  | [AR(1)](https://colab.research.google.com/drive/12l4mPYGRLd0Np5KktHCv-kGIkDIdwBaT)|
+| MA(1)  | model  | [MA(1))](https://colab.research.google.com/drive/1FE44aYnb6PRTX14bYLtjvZBTXnMkDqLb)|
+| ARMA | model  |[ARMA](https://colab.research.google.com/drive/1tx5NDJxYVwHLlJSXfMmgrCpYpeSTKiQp) |
+| ARIMA | model  |[ARIMA](https://colab.research.google.com/drive/1p48X3JezXXo3v-yOJB-GQ-iW40bP9ppA) |
 | ARIMA review | review  | |
-| SARIMA | model  | |
-| Prophet | library  | |
+| Error correction | model  | |
+| SARIMA | model  | [SARIMA](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
+| Prophet | model / library  | |
 
 ## Project
 - Sales forecasting
