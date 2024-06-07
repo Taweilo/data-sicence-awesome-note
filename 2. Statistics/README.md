@@ -6,7 +6,7 @@
 | Probability (text)| theory  | [Simulation](https://colab.research.google.com/drive/1GNX9iPuXftN23UKhTaDd24zzKNArnAlg#scrollTo=B_lH0Rm_kIWs) |
 | Distribution | theory  | [Distribution](https://colab.research.google.com/drive/1MnTBlZ7mPCKjx7hosv_KT8N9DRte32cy) |
 | CLT | theory  | [CLT simulation](https://colab.research.google.com/drive/1o_aSTl96jkCshfYoQeuy7tkA3sWS-teG) |
-| Descriptive Statistics | EDA process  |  |
+| Descriptive Statistics | EDA process  |  [EDA](https://colab.research.google.com/drive/1dxSbBy__6uy3wzZ4t9URFClR92Lxz-1E#scrollTo=PJTSlvuF0DA7)|
 | Power analysis | theory | [Power analysis simulation](https://colab.research.google.com/drive/1b_K8FPWl27wTTtLHYQZ50QvtDm4k_8Dv) |
 | alpha, beta, p-value | theory |  |
 | T-test (one sample, independent, paired) | theory | [T-test](https://colab.research.google.com/drive/1SZvx4nHuULazkCWNYycUTszFdFPkDFSS) |
@@ -17,9 +17,9 @@
 | Non-parametric testing | testing method  | |
 | Bootstrapping | resample method  | [Simulation](https://colab.research.google.com/drive/1VJRvCmYkABLLlfaKmPqqgyVw8MUvn3Cn)|
 | Regression (text) | application  | [Regression code](https://colab.research.google.com/drive/1aQomsT8lsZHZBYgVu_1ICJJ6wnMiwWav) |
-| ANOVA (text) | application  | [ANOVA code](https://colab.research.google.com/drive/1gbyqXUwtKqV9wk3c2msG2F5EKnavN2Hf) |
-| Two-way ANOVA | application  |[Two-way ANOVA code]()  |
-| ANCOVA | application  | [ANCOVA code]() |
+| ANOVA (text/ grouping) | application  | [ANOVA code](https://colab.research.google.com/drive/1gbyqXUwtKqV9wk3c2msG2F5EKnavN2Hf) |
+| Two-way ANOVA | application  |[Two-way ANOVA code](https://colab.research.google.com/drive/1P9iltCloubv-A68cfh07oPySIe2-R6IW)  |
+| ANCOVA | application  | [ANCOVA code](https://colab.research.google.com/drive/1ILsXGL0Bj6rydhkJQPwbSZ64Wap3YPng) |
 | Logistic regression (text) | application  | [Logistic Regression code](https://colab.research.google.com/drive/1jgHA00LzNWFPtA94Sb00x2lq3LBrPYFp) |
 
 ## Advanced Content
