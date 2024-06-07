@@ -11,7 +11,7 @@
 | Regression | model  | [Regression](https://colab.research.google.com/drive/1TT8d7mBOzYeshu8N7rxwN0iOWs2qEj3t)|
 | Seasonality detection | theory  | |[]()
 | AR(1) | model  | [AR(1)](https://colab.research.google.com/drive/12l4mPYGRLd0Np5KktHCv-kGIkDIdwBaT)|
-| MA(1)  | model  | [MA(1))](https://colab.research.google.com/drive/1FE44aYnb6PRTX14bYLtjvZBTXnMkDqLb)|
+| MA(1)  | model  | [MA(1)](https://colab.research.google.com/drive/1FE44aYnb6PRTX14bYLtjvZBTXnMkDqLb)|
 | ARMA | model  |[ARMA](https://colab.research.google.com/drive/1tx5NDJxYVwHLlJSXfMmgrCpYpeSTKiQp) |
 | ARIMA | model  |[ARIMA](https://colab.research.google.com/drive/1p48X3JezXXo3v-yOJB-GQ-iW40bP9ppA) |
 | ARIMA review | How to decide p,d,q  | |
