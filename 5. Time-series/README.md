@@ -1,5 +1,6 @@
 # Time-series forecasting
 ## Content
+seasonality: https://machinelearningmastery.com/time-series-seasonality-with-python/
 
 | Category | Note | Python code                                                   |
 | ----- | -------- | ------------------------------------------------------------ | 
