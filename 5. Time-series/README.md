@@ -16,7 +16,7 @@
 | ARMA | model  |[ARMA](https://colab.research.google.com/drive/1tx5NDJxYVwHLlJSXfMmgrCpYpeSTKiQp) |
 | ARIMA | model  |[ARIMA](https://colab.research.google.com/drive/1p48X3JezXXo3v-yOJB-GQ-iW40bP9ppA) |
 | ARIMA review | How to decide p,d,q  | |
-| Error correction | model  | |
+| Error correction | model  | [ECM](https://colab.research.google.com/drive/1aNSaGN3FZUTaQ0PRxP4AB4Gic8VDjYos)|
 | SARIMA | model  | [SARIMA](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
 | Prophet | model | |
 | CNN | model | |
