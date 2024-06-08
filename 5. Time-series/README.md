@@ -4,6 +4,7 @@
 | Category | Note | Python code                                                   |
 | ----- | -------- | ------------------------------------------------------------ | 
 | Time-series intro | theory  | [TS intro](https://colab.research.google.com/drive/1844VadUkSEBBHtxsLiMV6YsUGjhumImP#scrollTo=L8GOAYuU-BmF) |
+| Probability theory | Review | [Probability recap](https://colab.research.google.com/drive/1GNX9iPuXftN23UKhTaDd24zzKNArnAlg) |
 | White noise | WN test  |[WN test](https://colab.research.google.com/drive/1ClQyvYRqkMoUeK_Y83sDOhexkZuGKzfh#scrollTo=mM-R6eP3kwu4)  |
 | Constant mean | model  | [Constant mean](https://colab.research.google.com/drive/1YSqKLDZoTMFm12fvTWcpgO85LSwy6chP#scrollTo=c7BumI61stNg) |
 | EDA / data prep  | technique |  |
