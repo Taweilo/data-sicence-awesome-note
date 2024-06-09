@@ -4,8 +4,26 @@
 | ----- | -------- | ------------------------------------------------------------ | 
 | Python note | Regression cheatsheet | [回歸筆記 (Regression cheatsheet)](https://colab.research.google.com/drive/13JTAurn7k1RuXQBqA1v7NOHR333zuvfi#scrollTo=nJm6AmLgJkcR) |
 | Python note | Classification cheatsheet | [分類筆記 (Classification cheatsheet)](https://colab.research.google.com/drive/121dyWgC98z7BoGnQ1mdjDHlqaQqGALSd#scrollTo=DVyFlzJ53f2B) |
-| Supervised | Regression | [線性回歸(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |
-| Supervised | Regression | [正則化(Regulization)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |
+| Supervised | Regression | [Liner Regression]() |
+| Supervised | Regression | [Regulization]() |
+| Supervised | Classification | [SVM]() |
+| Supervised | Classification | [KNN]() |
+| Supervised | Classification | [Decision tree]() |
+| Supervised | Classification | [Bagging]() |
+| Supervised | Classification | [Random Forest]() |
+| Supervised | Classification | [Adaboost]() |
+| Supervised | Classification | [Gradient boost]() |
+| Supervised | Classification | [Light XGboost]() |
+| Supervised | Classification | [XGboost]() |
+| Unsupervised | PCA | [PCA code]() |
+| Unsupervised | Clustering | [Clustering code]() |
+
+
+
+
+## 目錄 
+| 種類 | 子種類 | 內容                                                        |
+| ----- | -------- | ------------------------------------------------------------ | 
 | Supervised | Classification/Regression | [9.K近邻算法(KNN)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning/9.%20KNN) | 
 | Supervised | Classification/Regression | [SVM](https://github.com/Taweilo/data-sicence-awesome-note/tree/main/1.%20Machine%20Learning/SVM%20) | 
 | Supervised | Classification | [2. 逻辑回归(Logistics Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | 
@@ -16,9 +34,6 @@
 | Supervised | Supervise Learning | [3.4 LightGBM](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.4%20LightGBM/3.4%20LightGBM.md) | 
 | Supervised |  Modeling- SVM | [4. 支持向量机(SVM)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/4.%20SVM/4.%20SVM.md) | 
 
-## 目錄 
-| 種類 | 子種類 | 內容                                                        |
-| ----- | -------- | ------------------------------------------------------------ | 
 | Machine Learning | Supervise Learning | 5. 概率图模型(Probabilistic Graphical Model)                 |
 | Machine Learning | Supervise Learning | [5.1 贝叶斯网络(Bayesian Network)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/5.1%20Bayes%20Network/5.1%20Bayes%20Network.md) | 
 | Machine Learning | Supervise Learning | [5.2 马尔科夫(Markov)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/5.2%20Markov/5.2%20Markov.md) | 
