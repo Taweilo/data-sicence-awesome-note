@@ -6,15 +6,16 @@
 | Python note | Classification cheatsheet | [分類筆記 (Classification cheatsheet)](https://colab.research.google.com/drive/121dyWgC98z7BoGnQ1mdjDHlqaQqGALSd#scrollTo=DVyFlzJ53f2B) |
 | Supervised | Regression | [Liner Regression]() |
 | Supervised | Regression | [Regulization]() |
-| Supervised | Classification | [SVM]() |
-| Supervised | Classification | [KNN]() |
-| Supervised | Classification | [Decision tree]() |
-| Supervised | Classification | [Bagging]() |
-| Supervised | Classification | [Random Forest]() |
-| Supervised | Classification | [Adaboost]() |
-| Supervised | Classification | [Gradient boost]() |
-| Supervised | Classification | [Light XGboost]() |
-| Supervised | Classification | [XGboost]() |
+| Supervised | Classification | [Logistic Regression]() |
+| Supervised | Regression / Classification | [SVM]() |
+| Supervised | Regression / Classification | [KNN]() |
+| Supervised | Classification | [Decision / Regression tree]() |
+| Supervised | Regression / Classification | [Bagging]() |
+| Supervised | Regression / Classification | [Random Forest]() |
+| Supervised | Regression / Classification | [Adaboost]() |
+| Supervised |Regression / Classification | [Gradient boost]() |
+| Supervised | Regression / Classification | [Light XGboost]() |
+| Supervised | Regression / Classification | [XGboost]() |
 | Unsupervised | PCA | [PCA code]() |
 | Unsupervised | Clustering | [Clustering code]() |
 
