@@ -4,20 +4,23 @@
 | ----- | -------- | ------------------------------------------------------------ | 
 | Python note | Regression cheatsheet | [回歸筆記 (Regression cheatsheet)](https://colab.research.google.com/drive/13JTAurn7k1RuXQBqA1v7NOHR333zuvfi#scrollTo=nJm6AmLgJkcR) |
 | Python note | Classification cheatsheet | [分類筆記 (Classification cheatsheet)](https://colab.research.google.com/drive/121dyWgC98z7BoGnQ1mdjDHlqaQqGALSd#scrollTo=DVyFlzJ53f2B) |
-| Supervised | Regression | [Liner Regression]() |
-| Supervised | Regression | [Regulization]() |
+| Supervised | Regression | [Liner Regression](https://colab.research.google.com/drive/1IyPQVFCuyHw087G_1Mb-v0hzE9ag7OW0) |
+| Supervised | Regression | [Regulization](https://colab.research.google.com/drive/1IyPQVFCuyHw087G_1Mb-v0hzE9ag7OW0) |
 | Supervised | Classification | [Logistic Regression]() |
-| Supervised | Regression / Classification | [SVM]() |
-| Supervised | Regression / Classification | [KNN]() |
-| Supervised | Classification | [Decision / Regression tree]() |
-| Supervised | Regression / Classification | [Bagging]() |
-| Supervised | Regression / Classification | [Random Forest]() |
-| Supervised | Regression / Classification | [Adaboost]() |
-| Supervised |Regression / Classification | [Gradient boost]() |
+| Supervised | Regression / Classification | [SVM](https://colab.research.google.com/drive/1sl3OyK5rT2HqDsZ2cUg0P7476pGDAKrB) |
+| Supervised | Regression / Classification | [KNN](https://colab.research.google.com/drive/1HnLUkRZAgHzOUy7askF8VIhhE4lInM8p?usp=drive_open) |
+| Supervised | Classification | [Decision / Regression tree](https://colab.research.google.com/drive/1AAS9vAI3XJ9c4Gi3TAsjAtCzYOHZhoKB) |
+| Supervised | Regression / Classification | [Bagging](https://colab.research.google.com/drive/1KBL18Wx_LVpo0TYzid5IZrSOZrMpUm2J) |
+| Supervised | Regression / Classification | [Random Forest](https://colab.research.google.com/drive/1WdVQ0tm2GPxSg1T1aHr8ZSw_STcM90BK) |
+| Supervised | Regression / Classification | [Adaboost](https://colab.research.google.com/drive/17cYFyfqlSoHp9QFFve1rLyPfTrDgyP2q) |
+| Supervised |Regression / Classification | [Gradient boost](https://colab.research.google.com/drive/1CsIZzg5umo3jh27F2YIxaFe6ute2V4S_) |
 | Supervised | Regression / Classification | [Light XGboost]() |
 | Supervised | Regression / Classification | [XGboost]() |
-| Unsupervised | PCA | [PCA code]() |
-| Unsupervised | Clustering | [Clustering code]() |
+| Supervised | Classification | [Naive Bayes](https://colab.research.google.com/drive/1AN-W_8j2meEbOLFrDyQ47HytctDMl3qZ) |
+| Unsupervised | PCA | [PCA code](https://colab.research.google.com/drive/1Asv_6dUowL1evp82GKcZBHWyAB_YqvZ7) |
+| Unsupervised | Clustering | [Clustering code](https://colab.research.google.com/drive/1Lxo_x2On629SN2OrbgAg_OYWkEFx_txV) |
+| Unsupervised | Clustering | [DBSCAN](https://colab.research.google.com/drive/1lOz9WuT9i8YLW3CLq3CQZ2tHD9seJuNZ) |
+
 
 
 
