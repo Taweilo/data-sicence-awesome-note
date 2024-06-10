@@ -37,7 +37,6 @@
 | Supervised | Supervise Learning |[3.3 XGBoost](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.3%20XGBoost/3.3%20XGBoost.md) | 
 | Supervised | Supervise Learning | [3.4 LightGBM](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.4%20LightGBM/3.4%20LightGBM.md) | 
 | Supervised |  Modeling- SVM | [4. 支持向量机(SVM)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/4.%20SVM/4.%20SVM.md) | 
-
 | Machine Learning | Supervise Learning | 5. 概率图模型(Probabilistic Graphical Model)                 |
 | Machine Learning | Supervise Learning | [5.1 贝叶斯网络(Bayesian Network)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/5.1%20Bayes%20Network/5.1%20Bayes%20Network.md) | 
 | Machine Learning | Supervise Learning | [5.2 马尔科夫(Markov)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/5.2%20Markov/5.2%20Markov.md) | 
