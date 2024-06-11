@@ -1,4 +1,4 @@
-# Machine Learning Project
+# ML / DL Project
 
 | Skill | Title | Content                                                        |
 | ----- | -------- | ------------------------------------------------------------ | 
