@@ -10,6 +10,6 @@
 | Classification | Red Wine prediction  | [Calsification model Model](https://colab.research.google.com/drive/1tjLoQ2Y1OSArQsozT9pq6mQgZ5UD3qsk?usp=drive_open) |
 | Classification (new project)  | Image detection (Cat or Dog)  | [Decision tree]() |
 | Clustering | Customer Segmentation  | [K-means](https://colab.research.google.com/drive/17a_OsuxrApnE-vCPIWTw-j51z3_6dOq4?usp=drive_open) |
-| Clustering | Warehouse | [K-medians]()|
+| Clustering | Warehouse relocation | [K-medians](https://colab.research.google.com/drive/1ys7kr6EiIi2cKPybqK7QJSPWRWItLmLV)|
 
 
