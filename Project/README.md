@@ -4,7 +4,7 @@
 | ----- | -------- | ------------------------------------------------------------ | 
 | Regression (new project) | House price prediction | [Boosting method]() |
 | Regression | Sales prediction  | [Regression](https://colab.research.google.com/drive/1Xvrt-_buE1JWDT5BGoKijP20v_nwlZtM#scrollTo=758bd644) |
-| Classification (new project) | Hand writing prediction | [MNIST](https://colab.research.google.com/drive/1i5BrzQSOiNpWOsbRk1xRnT8u_xOnHKI-) |
+| Classification (new project) | Hand writing prediction | [MNIST library](https://colab.research.google.com/drive/1i5BrzQSOiNpWOsbRk1xRnT8u_xOnHKI-) |
 | Classification | Credit risk prediction | [Logit/ XGB](https://colab.research.google.com/drive/1sjorLY3Gg316VVW4skgM4kHrUficsYoU?usp=drive_open) |
 | Classification | Heart disease prediction  | [Decision tree](https://colab.research.google.com/drive/1Qaum6DLFW7KAa7JgKTkamIcBlXOUYj3Z) |
 | Classification | Red Wine prediction  | [Calsification model Model](https://colab.research.google.com/drive/1tjLoQ2Y1OSArQsozT9pq6mQgZ5UD3qsk?usp=drive_open) |
