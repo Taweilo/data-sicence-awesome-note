@@ -4,7 +4,7 @@
 | ----- | -------- | ------------------------------------------------------------ | 
 | Python note | Regression cheatsheet | [回歸筆記 (Regression cheatsheet)](https://colab.research.google.com/drive/13JTAurn7k1RuXQBqA1v7NOHR333zuvfi#scrollTo=nJm6AmLgJkcR) |
 | Python note | Classification cheatsheet | [分類筆記 (Classification cheatsheet)](https://colab.research.google.com/drive/121dyWgC98z7BoGnQ1mdjDHlqaQqGALSd#scrollTo=DVyFlzJ53f2B) |
-| Supervised | Regression | [Liner Regression](https://colab.research.google.com/drive/1IyPQVFCuyHw087G_1Mb-v0hzE9ag7OW0) |
+| Supervised | Regression | [Liner Regression](https://colab.research.google.com/drive/1NVN6b40hY5KOZFb_EPmyod5YlwzE-uwR#scrollTo=OUoqM7QOTJwR) |
 | Supervised | Regression | [Regulization](https://colab.research.google.com/drive/1IyPQVFCuyHw087G_1Mb-v0hzE9ag7OW0) |
 | Supervised | Classification | [Logistic Regression]() |
 | Supervised | Regression / Classification | [SVM](https://colab.research.google.com/drive/1sl3OyK5rT2HqDsZ2cUg0P7476pGDAKrB) |
