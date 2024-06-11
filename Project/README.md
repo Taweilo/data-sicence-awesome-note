@@ -11,5 +11,6 @@
 | Classification (new project)  | Image detection (Cat or Dog)  | [Decision tree]() |
 | Clustering | Customer Segmentation  | [K-means](https://colab.research.google.com/drive/17a_OsuxrApnE-vCPIWTw-j51z3_6dOq4?usp=drive_open) |
 | Clustering | Warehouse relocation | [K-medians](https://colab.research.google.com/drive/1ys7kr6EiIi2cKPybqK7QJSPWRWItLmLV)|
+| TS forecasting | Sales forecasting | [TS](https://colab.research.google.com/drive/1JKYnRFBl1dIJRedhEmWLV8P95Hc5HfIG)|
 
 
