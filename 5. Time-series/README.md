@@ -25,6 +25,8 @@ seasonality: https://machinelearningmastery.com/time-series-seasonality-with-pyt
 | LSTM | model | |
 
 
+[SARIMA](https://www.kaggle.com/code/liweidai/sarimax)
+
 ## Project
 - Sales forecasting
 - Stock price forecasting
