@@ -16,3 +16,11 @@
 | CNN | Keras | [Famous CNN model](https://colab.research.google.com/drive/1ba8SL-9tX1JGPZXmvIjPxKrGsNpAnlbd#scrollTo=xP4OjCuSjfu5) |
 | CNN | YOLO | [YOLO]() |
 | CNN | Semantic segmentation | [Semantic segmentation]() |
+
+# RNN advanced
+| Category | Subcategory | Content                                                        |
+| ----- | -------- | ------------------------------------------------------------ | 
+| RNN | Keras | [RNN basic](https://colab.research.google.com/drive/1ipiH1oBvMLMm9xTIonsKyEpIJW0uiOEi?usp=drive_open) |
+
+
+
