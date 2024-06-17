@@ -11,6 +11,6 @@
 | Clustering | Customer Segmentation  | [K-means](https://colab.research.google.com/drive/17a_OsuxrApnE-vCPIWTw-j51z3_6dOq4?usp=drive_open) |
 | Clustering | Warehouse relocation | [K-medians](https://colab.research.google.com/drive/1ys7kr6EiIi2cKPybqK7QJSPWRWItLmLV)|
 | TS forecasting | Sales forecasting | [TS method](https://colab.research.google.com/drive/1JKYnRFBl1dIJRedhEmWLV8P95Hc5HfIG)|
-| Classification (new project)  | Image detection (Cat or Dog)  | [CNN](https://colab.research.google.com/drive/#create=1&folderId=12hSWfFR-Rplj0RNhiVVPnKYp4DfEiIO0) |
+| Classification (new project)  | Image detection (Cat or Dog)  | [CNN](https://colab.research.google.com/drive/1-KAhIyPRPsplgL2UWxAZ_sFpFBZi1X9X#scrollTo=4lUQoLH2WMjO) |
 
 
