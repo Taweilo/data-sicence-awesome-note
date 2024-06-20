@@ -12,7 +12,7 @@ seasonality: https://machinelearningmastery.com/time-series-seasonality-with-pyt
 | Differencing | theory  | [Differencing](https://colab.research.google.com/drive/1scugFG85trjySJrZZ7s6DZ4wZcs3Zf-t) |
 | Random walk / with drift | model  | [RW](https://colab.research.google.com/drive/13n_ZtZ-8YyG-dqUtADGXTjEvGri77PL8#scrollTo=wSIMD7EOmELf)|
 | Regression | model  | [Regression](https://colab.research.google.com/drive/1TT8d7mBOzYeshu8N7rxwN0iOWs2qEj3t)|
-| Seasonality | method | |[detrend & deseasonality](https://colab.research.google.com/drive/1KuyrXQvy36DSgjCmxcA27xbbnO0uWFeS#scrollTo=xVA1mQb1olqB)
+| Seasonality | method | |[detrend & deseasonality](https://colab.research.google.com/drive/1KuyrXQvy36DSgjCmxcA27xbbnO0uWFeS#scrollTo=xVA1mQb1olqB)|
 | AR(1) | model  | [AR(1)](https://colab.research.google.com/drive/12l4mPYGRLd0Np5KktHCv-kGIkDIdwBaT)|
 | MA(1)  | model  | [MA(1)](https://colab.research.google.com/drive/1FE44aYnb6PRTX14bYLtjvZBTXnMkDqLb)|
 | ARMA | model  |[ARMA](https://colab.research.google.com/drive/1tx5NDJxYVwHLlJSXfMmgrCpYpeSTKiQp#scrollTo=kMGwOQYbHukl) |
