@@ -20,11 +20,12 @@ seasonality: https://machinelearningmastery.com/time-series-seasonality-with-pyt
 | ARIMA review | How to decide p,d,q  | |
 | Error correction | model  | [ECM](https://colab.research.google.com/drive/16z2NRLE604OIOYriey46uUTgrNvZtgm-#scrollTo=4oMvUAEtXdkf)|
 | SARIMA | model  | [SARIMA](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
+| SARIMAX | model  | [SARIMAX](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
 | EDA / data prep  | technique |  |
 | CV  | technique |  |
-| Prophet | model | |
-| RNN | model | https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ|
-| LSTM | model | https://colab.research.google.com/drive/1PoomEGRk-ilNP9190vvgtJ1yMFrX8s-3|
+| Prophet | model | [Prophet](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
+| RNN | model | [RNN](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
+| LSTM | model | [LSTM](https://colab.research.google.com/drive/1PoomEGRk-ilNP9190vvgtJ1yMFrX8s-3)|
 
 
 [SARIMA](https://www.kaggle.com/code/liweidai/sarimax)
