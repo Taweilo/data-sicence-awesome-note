@@ -21,7 +21,8 @@ seasonality: https://machinelearningmastery.com/time-series-seasonality-with-pyt
 | SARIMA | model  | [SARIMA](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
 | SARIMAX | model  | [SARIMAX](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
 | EDA / data prep/ CV   | technique |  |
-| ARIMA review | How to decide p,d,q  |  |
+| ARIMA review | define hyperparameter |  |
+| SARIMA review | define hyperparameter  |  |
 | Prophet | model | [Prophet](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
 | RNN | model | [RNN](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
 | LSTM | model | [LSTM](https://colab.research.google.com/drive/1PoomEGRk-ilNP9190vvgtJ1yMFrX8s-3)|
