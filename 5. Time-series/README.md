@@ -17,12 +17,11 @@ seasonality: https://machinelearningmastery.com/time-series-seasonality-with-pyt
 | MA  | model  | [MA](https://colab.research.google.com/drive/1FE44aYnb6PRTX14bYLtjvZBTXnMkDqLb)|
 | ARMA | model  |[ARMA](https://colab.research.google.com/drive/1tx5NDJxYVwHLlJSXfMmgrCpYpeSTKiQp#scrollTo=kMGwOQYbHukl) |
 | ARIMA | model  |[ARIMA](https://colab.research.google.com/drive/1p48X3JezXXo3v-yOJB-GQ-iW40bP9ppA) |
-| ARIMA review | How to decide p,d,q  | |
 | Error correction | model  | [ECM](https://colab.research.google.com/drive/16z2NRLE604OIOYriey46uUTgrNvZtgm-#scrollTo=4oMvUAEtXdkf)|
 | SARIMA | model  | [SARIMA](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
 | SARIMAX | model  | [SARIMAX](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
-| EDA / data prep  | technique |  |
-| CV  | technique |  |
+| EDA / data prep/ CV   | technique |  |
+| ARIMA review | How to decide p,d,q  |  |
 | Prophet | model | [Prophet](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
 | RNN | model | [RNN](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
 | LSTM | model | [LSTM](https://colab.research.google.com/drive/1PoomEGRk-ilNP9190vvgtJ1yMFrX8s-3)|
