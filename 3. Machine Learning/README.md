@@ -1,4 +1,7 @@
 # Machine Learning Method
+## What's Machine learning: ML techniques are used to find a function to describe the data for inferencing, and prediction.
+## What's BA framework: 
+## How to evaluate the ML model: 
 
 | Category | Subcategory | Content                                                        |
 | ----- | -------- | ------------------------------------------------------------ | 
