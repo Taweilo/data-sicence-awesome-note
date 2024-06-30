@@ -1,7 +1,12 @@
 # Machine Learning Method
-## What's Machine learning: ML techniques are used to find a function to describe the data for inferencing, and prediction.
-## What's BA framework: 
-## How to evaluate the ML model: 
+
+## What's Machine learning
+ML techniques are used to find a function to describe the data for inferencing, and prediction.
+
+## What's BA framework
+
+## How to evaluate the ML model
+Supervised / unsupervised/ 
 
 | Category | Subcategory | Content                                                        |
 | ----- | -------- | ------------------------------------------------------------ | 
@@ -21,6 +26,9 @@
 | Supervised | Regression / Classification | [XGboost]() |
 | Supervised | Regression / Classification | [Perceptron](https://colab.research.google.com/drive/1S22Y538kuCA0j8PkuA2kRvqWxOE_Lrez#scrollTo=24HgLcGRgsvm) |
 | Supervised | Classification | [Naive Bayes](https://colab.research.google.com/drive/1AN-W_8j2meEbOLFrDyQ47HytctDMl3qZ) |
+
+| Category | Subcategory | Content                                                        |
+| ----- | -------- | ------------------------------------------------------------ | 
 | Unsupervised | PCA | [PCA code](https://colab.research.google.com/drive/1Asv_6dUowL1evp82GKcZBHWyAB_YqvZ7) |
 | Unsupervised | Clustering | [Clustering code](https://colab.research.google.com/drive/1Lxo_x2On629SN2OrbgAg_OYWkEFx_txV) |
 | Unsupervised | Clustering | [DBSCAN](https://colab.research.google.com/drive/1lOz9WuT9i8YLW3CLq3CQZ2tHD9seJuNZ) |
