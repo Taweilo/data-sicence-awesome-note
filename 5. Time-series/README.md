@@ -27,6 +27,13 @@ seasonality: https://machinelearningmastery.com/time-series-seasonality-with-pyt
 | RNN | model | [RNN](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
 | LSTM | model | [LSTM](https://colab.research.google.com/drive/1PoomEGRk-ilNP9190vvgtJ1yMFrX8s-3)|
 
+| Category | Note | Python code                                                   |
+| ----- | -------- | ------------------------------------------------------------ | 
+| ARCH | model  | []() |
+| GARCH | model | []() |
+| VAR | model | []() |
+| Granger causality | model | []() |
+
 
 ## Project
 - Sales forecasting
