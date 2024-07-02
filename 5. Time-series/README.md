@@ -27,6 +27,7 @@ seasonality: https://machinelearningmastery.com/time-series-seasonality-with-pyt
 | Prophet | model | [Prophet](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
 | RNN | model | [RNN](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
 | LSTM | model | [LSTM](https://colab.research.google.com/drive/1PoomEGRk-ilNP9190vvgtJ1yMFrX8s-3)|
+| ML method | review project | []()|
 
 | Category | Note | Python code                                                   |
 | ----- | -------- | ------------------------------------------------------------ | 
