@@ -19,7 +19,7 @@ seasonality: https://machinelearningmastery.com/time-series-seasonality-with-pyt
 | ARIMA | model  |[ARIMA](https://colab.research.google.com/drive/1p48X3JezXXo3v-yOJB-GQ-iW40bP9ppA) |
 | Error correction | model  | [ECM](https://colab.research.google.com/drive/16z2NRLE604OIOYriey46uUTgrNvZtgm-#scrollTo=4oMvUAEtXdkf)|
 | SARIMA | model  | [SARIMA](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
-| SARIMAX | model  | [SARIMAX](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
+| SARIMAX | model  | [SARIMAX](https://colab.research.google.com/drive/1GtRcKCb1W5sknyPo2YxvJkAk9ahlT3-i?usp=drive_open#scrollTo=x9krfg1g1ZjZ) |
 | EDA / data prep/ CV   | technique |  |
 | ARIMA review | define hyperparameter |  |
 | SARIMA review | define hyperparameter  |  |
@@ -27,8 +27,6 @@ seasonality: https://machinelearningmastery.com/time-series-seasonality-with-pyt
 | RNN | model | [RNN](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
 | LSTM | model | [LSTM](https://colab.research.google.com/drive/1PoomEGRk-ilNP9190vvgtJ1yMFrX8s-3)|
 
-
-[SARIMA](https://www.kaggle.com/code/liweidai/sarimax)
 
 ## Project
 - Sales forecasting
