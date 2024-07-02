@@ -20,9 +20,10 @@ seasonality: https://machinelearningmastery.com/time-series-seasonality-with-pyt
 | Error correction | model  | [ECM](https://colab.research.google.com/drive/16z2NRLE604OIOYriey46uUTgrNvZtgm-#scrollTo=4oMvUAEtXdkf)|
 | SARIMA | model  | [SARIMA](https://colab.research.google.com/drive/1Zd-IEvszsL4qcnZXXR5khMUWjfcUniAR) |
 | SARIMAX | model  | [SARIMAX](https://colab.research.google.com/drive/1GtRcKCb1W5sknyPo2YxvJkAk9ahlT3-i?usp=drive_open#scrollTo=x9krfg1g1ZjZ) |
-| EDA / data prep/ CV   | technique |  |
-| ARIMA review | define hyperparameter |  |
-| SARIMA review | define hyperparameter  |  |
+| TS prep   | technique | [TS prep](https://colab.research.google.com/drive/1sJqaU_vvuHBeltn8TfoYI6OpflPTZIYD?usp=drive_open) |
+| ARIMA review | define hyperparameter |[ARIMA review](https://colab.research.google.com/drive/1qHDrg5_ikWvRq_e8lQmPbccSO6Kwzfro#scrollTo=44YdX8ahyfP4)  |
+| SARIMA review | define hyperparameter  |[SARIMA review](https://colab.research.google.com/drive/1ltVbu1egsaa2mGkssvK8Im6XCt07EKpE#scrollTo=V9j_TNvzylov)  |
+| XGBoost  | model | [XGBoost](https://colab.research.google.com/drive/1nrKjFCDMbrj_iVaK3HvBJFeZikJp3Pe8#scrollTo=79R-o7uxy476) |
 | Prophet | model | [Prophet](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
 | RNN | model | [RNN](https://colab.research.google.com/drive/12EU_royJ2kz1t2Q10CUkThEXyIbkLG8R#scrollTo=fshE1MwMG6uQ)|
 | LSTM | model | [LSTM](https://colab.research.google.com/drive/1PoomEGRk-ilNP9190vvgtJ1yMFrX8s-3)|
