@@ -27,11 +27,13 @@
 | Category | Note | Python code                                                   |
 | ----- | -------- | ------------------------------------------------------------ | 
 | Nonadditivity | theory  |  |
+| Statistical phenomenon | theory  | [Statistical phenomenon](https://colab.research.google.com/drive/1H2WqQYxODreUU6HtGXIe78wP8LaBQ-n5#scrollTo=wkYNBXFS9r-Q) |
 | Outlier identification | theory  |  |
 | lin-log, log-log, log-lin | theory  |  |
 | MANOVA | application  |  |
 | TS concept | theory |  |
-| Factor Analysis | theory  |  |
+| Survival analysis | theory | [Survival analysis](https://colab.research.google.com/drive/1tcXVCv4Bfc8hDnyeL-4pXqcgHo6UMjyS#scrollTo=Y-7asoZ-7ZCs) |
+| Factor analysis | theory | [ ]() |
 | Bayesian Statistics | theory  |  |
 
 
