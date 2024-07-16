@@ -1,5 +1,8 @@
 # Genrative AI
 
+| Category | Note | Python code                                                   |
+| ----- | -------- | ------------------------------------------------------------ | 
+| Introduction to Generative AI | theory  | [code](https://colab.research.google.com/drive/19eaQpEj36sjeWUrXaiaIL0lJpkm9qKTZ#scrollTo=kFGPJeuAv--T) |
 
 Syllabus for Learning Generative AI with Hands-On Projects
 Module 1: Introduction to Generative AI
