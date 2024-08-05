@@ -21,9 +21,10 @@ Supervised / unsupervised/
 | Supervised | Regression / Classification | [Bagging](https://colab.research.google.com/drive/1KBL18Wx_LVpo0TYzid5IZrSOZrMpUm2J) |
 | Supervised | Regression / Classification | [Random Forest](https://colab.research.google.com/drive/1WdVQ0tm2GPxSg1T1aHr8ZSw_STcM90BK) |
 | Supervised | Regression / Classification | [Adaboost](https://colab.research.google.com/drive/17cYFyfqlSoHp9QFFve1rLyPfTrDgyP2q) |
-| Supervised |Regression / Classification | [Gradient boost](https://colab.research.google.com/drive/1CsIZzg5umo3jh27F2YIxaFe6ute2V4S_) |
-| Supervised | Regression / Classification | [Light XGboost]() |
-| Supervised | Regression / Classification | [XGboost]() |
+| Supervised | Regression / Classification | [Gradient boost](https://colab.research.google.com/drive/1CsIZzg5umo3jh27F2YIxaFe6ute2V4S_) |
+| Supervised | Regression / Classification | [Light XGboost](https://colab.research.google.com/drive/1_LkpRpYVly_ZePlOVE7wtU0uRpHWCnv_#scrollTo=5ZRQ1YXy1bth) |
+| Supervised | Regression / Classification | [Cat XGboost](https://colab.research.google.com/drive/1uEOYlK5QDlqLgLcw9TLm-qh1Q1-rUovk?usp=sharing) |
+| Supervised | Regression / Classification | [XGboost](https://colab.research.google.com/drive/1ez66PCTfYL76hqNZkHWMr2NoPCBLVs6k?usp=drive_open) |
 | Supervised | Regression / Classification | [Perceptron](https://colab.research.google.com/drive/1S22Y538kuCA0j8PkuA2kRvqWxOE_Lrez#scrollTo=24HgLcGRgsvm) |
 | Supervised | Classification | [Naive Bayes](https://colab.research.google.com/drive/1AN-W_8j2meEbOLFrDyQ47HytctDMl3qZ) |
 
