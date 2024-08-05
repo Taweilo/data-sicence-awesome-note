@@ -25,8 +25,11 @@ Supervised / unsupervised/
 | Supervised | Regression / Classification | [Light XGboost](https://colab.research.google.com/drive/1_LkpRpYVly_ZePlOVE7wtU0uRpHWCnv_#scrollTo=5ZRQ1YXy1bth) |
 | Supervised | Regression / Classification | [Cat XGboost](https://colab.research.google.com/drive/1uEOYlK5QDlqLgLcw9TLm-qh1Q1-rUovk?usp=sharing) |
 | Supervised | Regression / Classification | [XGboost](https://colab.research.google.com/drive/1ez66PCTfYL76hqNZkHWMr2NoPCBLVs6k?usp=drive_open) |
+| Supervised | Review| [XGBs](https://www.kaggle.com/code/manavgupta92/s3e17-eda-baseline-cat-xgb-lgb) |
 | Supervised | Regression / Classification | [Perceptron](https://colab.research.google.com/drive/1S22Y538kuCA0j8PkuA2kRvqWxOE_Lrez#scrollTo=24HgLcGRgsvm) |
 | Supervised | Classification | [Naive Bayes](https://colab.research.google.com/drive/1AN-W_8j2meEbOLFrDyQ47HytctDMl3qZ) |
+
+
 
 | Category | Subcategory | Content                                                        |
 | ----- | -------- | ------------------------------------------------------------ | 
